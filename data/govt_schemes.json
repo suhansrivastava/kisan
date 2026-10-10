@@ -1,0 +1,88 @@
+{
+  "schemes": [
+    {
+      "id": "pm-kisan",
+      "name": "PM-KISAN Samman Nidhi Yojana",
+      "hindi_name": "प्रधानमंत्री किसान सम्मान निधि योजना",
+      "category": "Direct Income Support",
+      "benefit": "₹6,000 per year directly transferred to bank accounts in 3 equal installments of ₹2,000 every 4 months.",
+      "eligibility": "All landholding farmer families having cultivable land in their names (subject to exclusion criteria like institutional landholders/income tax payees).",
+      "documents": "Aadhaar Card, Land ownership papers (Khata/Khasra/Khatauni), Bank passbook linked with Aadhaar.",
+      "how_to_apply": "Apply online at pmkisan.gov.in portal or visit nearest Common Service Center (CSC). e-KYC can be done via Aadhaar OTP or facial recognition on PM-KISAN App.",
+      "portal_url": "https://pmkisan.gov.in",
+      "helpline": "155261 / 011-24300606"
+    },
+    {
+      "id": "pmfby",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "hindi_name": "प्रधानमंत्री फसल बीमा योजना (फसल बीमा)",
+      "category": "Crop Insurance & Risk Mitigation",
+      "benefit": "Comprehensive insurance coverage against loss of crops from pre-sowing to post-harvest due to non-preventable natural risks (drought, flood, unseasonal rain, pests). Farmers pay minimal premium: 2% for Kharif, 1.5% for Rabi, and 5% for commercial/horticultural crops.",
+      "eligibility": "All farmers including sharecroppers and tenant farmers growing notified crops in notified areas.",
+      "documents": "Land Record copy, Sowing Certificate / Patwari report, Aadhaar Card, Bank account details.",
+      "how_to_apply": "Enroll through bank branch, PMFBY online portal, CSC, or designated insurance company agent within crop cut-off date.",
+      "portal_url": "https://pmfby.gov.in",
+      "helpline": "1800-180-1551"
+    },
+    {
+      "id": "kcc",
+      "name": "Kisan Credit Card (KCC) Scheme",
+      "hindi_name": "किसान क्रेडिट कार्ड (सस्ती कृषि ऋण)",
+      "category": "Low-Interest Agricultural Credit",
+      "benefit": "Short-term credit up to ₹3,00,000 at a subsidized interest rate of 4% per annum (with prompt repayment incentive of 3% subvention). Collateral-free loan up to ₹1.60 Lakh.",
+      "eligibility": "Individual/joint farmers, owner cultivators, tenant farmers, oral lessees, sharecroppers, and SHGs/JLGs.",
+      "documents": "Application form, Identity and address proof (Aadhaar/Voter ID), Land records & crop sowing details.",
+      "how_to_apply": "Submit single-page KCC application to any rural/commercial bank or online via farmer portal.",
+      "portal_url": "https://myscheme.gov.in/schemes/kcc",
+      "helpline": "1800-11-5526"
+    },
+    {
+      "id": "pmksy",
+      "name": "Pradhan Mantri Krishi Sinchayee Yojana (Per Drop More Crop)",
+      "hindi_name": "प्रधानमंत्री कृषि सिंचाई योजना (ड्रिप एवं स्प्रिंकलर सब्सिडी)",
+      "category": "Irrigation & Micro-Irrigation Subsidy",
+      "benefit": "45% to 55% government subsidy on installation of Drip and Sprinkler irrigation systems for precision water usage.",
+      "eligibility": "Farmers of all categories having cultivable land and an assured water source.",
+      "documents": "Land document (7/12 extract / RTC), Aadhaar Card, Water source certificate, Bank details.",
+      "how_to_apply": "Apply through State Department of Agriculture / Horticulture online portal or District Horticulture Office.",
+      "portal_url": "https://pmksy.gov.in",
+      "helpline": "011-23381012"
+    },
+    {
+      "id": "soil-health-card",
+      "name": "Soil Health Card Scheme",
+      "hindi_name": "मृदा स्वास्थ्य कार्ड योजना",
+      "category": "Soil Testing & Fertilizer Guidance",
+      "benefit": "Free soil test report issued every 3 years containing status of 12 nutrients (N, P, K, S, Zn, Fe, Cu, Mn, Bo, pH, EC, OC) and crop-wise dosage recommendations.",
+      "eligibility": "All farmers across India.",
+      "documents": "Farmer identity and agricultural field sample collected by agricultural department or submitted by farmer.",
+      "how_to_apply": "Contact Village Agriculture Extension Officer (Gram Sevak) or state Krishi Vigyan Kendra (KVK).",
+      "portal_url": "https://soilhealth.dac.gov.in",
+      "helpline": "1800-180-1551"
+    },
+    {
+      "id": "pm-kusum",
+      "name": "PM-KUSUM (Solar Agricultural Pumps)",
+      "hindi_name": "पीएम-कुसुम सोलर पंप योजना",
+      "category": "Solar Energy & Irrigation",
+      "benefit": "Up to 60% subsidy on installation of stand-alone solar agricultural water pumps (up to 7.5 HP) and grid-connected solar power plants on barren land.",
+      "eligibility": "Individual farmers, groups of farmers, FPOs, Cooperatives and Water User Associations.",
+      "documents": "Aadhaar Card, Land ownership document, Bank passbook, NOC from electricity board if grid pump.",
+      "how_to_apply": "Apply through State Renewable Energy Development Agency (e.g. UPNEDA, MEDA, HAREDA) web portal.",
+      "portal_url": "https://pmkusum.mnre.gov.in",
+      "helpline": "1800-180-3333"
+    },
+    {
+      "id": "enam",
+      "name": "National Agriculture Market (e-NAM)",
+      "hindi_name": "राष्ट्रीय कृषि बाजार (ई-नाम ऑनलाइन मंडी)",
+      "category": "Agricultural Marketing & Transparent Prices",
+      "benefit": "Pan-India electronic trading portal networking existing APMC mandis to create a unified national market for agricultural commodities with transparent online bidding and digital payment.",
+      "eligibility": "Farmers, traders, commission agents, and Farmer Producer Organizations (FPOs).",
+      "documents": "Aadhaar Card, Bank passbook, APMC registration details (if trader).",
+      "how_to_apply": "Register online at enam.gov.in or directly at the e-NAM kiosk in your registered APMC market yard.",
+      "portal_url": "https://enam.gov.in",
+      "helpline": "1800-270-0224"
+    }
+  ]
+}

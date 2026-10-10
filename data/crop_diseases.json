@@ -1,0 +1,174 @@
+{
+  "diseases": [
+    {
+      "id": "tomato_early_blight",
+      "crop": "Tomato (टमाटर)",
+      "disease_name": "Early Blight (अगेती झुलसा)",
+      "pathogen": "Alternaria solani (Fungus)",
+      "symptoms": "Concentric rings (target board pattern) on older leaves, dark brown to black spots, yellow halo around spots, defoliation from bottom upwards.",
+      "causes": "High humidity, warm temperatures (24-30°C), frequent rainfall or overhead sprinkler irrigation.",
+      "treatment": [
+        "Foliar spray of Mancozeb 75% WP @ 2-2.5 g/liter or Chlorothalonil 75% WP @ 2 g/liter.",
+        "For severe attack, spray Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1 ml/liter.",
+        "Remove and safely burn lower infected leaves."
+      ],
+      "organic_solution": [
+        "Spray Neem oil (10,000 ppm) @ 3-5 ml/liter water with soap solution every 7 days.",
+        "Trichoderma viride bio-fungicide foliar application (5g/liter).",
+        "Mulching around the base to prevent soil splash onto foliage."
+      ],
+      "severity": "Moderate to High"
+    },
+    {
+      "id": "tomato_late_blight",
+      "crop": "Tomato (टमाटर)",
+      "disease_name": "Late Blight (पछेती झुलसा)",
+      "pathogen": "Phytophthora infestans (Oomycete)",
+      "symptoms": "Water-soaked irregular pale green/brown lesions on leaf edges, white cottony mildew under the leaves in humid conditions, rapid browning and rot.",
+      "causes": "Cool, moist weather (10-20°C) with persistent fog, high relative humidity (>90%).",
+      "treatment": [
+        "Immediate spray of Metalaxyl 8% + Mancozeb 64% WP (Ridomil MZ) @ 2.5 g/liter.",
+        "Cymoxanil 8% + Mancozeb 64% WP @ 2-3 g/liter at first appearance.",
+        "Avoid any overhead irrigation immediately."
+      ],
+      "organic_solution": [
+        "Bordeaux mixture (1%) preventive spray.",
+        "Copper hydroxide 77% WP @ 2 g/liter.",
+        "Ensure wide plant spacing and good air circulation."
+      ],
+      "severity": "Severe (Critical)"
+    },
+    {
+      "id": "potato_late_blight",
+      "crop": "Potato (आलू)",
+      "disease_name": "Late Blight (आलू पछेती झुलसा)",
+      "pathogen": "Phytophthora infestans",
+      "symptoms": "Water-soaked lesions turning dark brown/black rapidly, foul smell in field, tuber rot with brownish-purple dry skin.",
+      "causes": "Extended cold, cloudy days, drizzling rains and night condensation.",
+      "treatment": [
+        "Spray Dimethomorph 50% WP @ 1 g/liter mixed with Mancozeb @ 2 g/liter.",
+        "Mandipropamid 23.4% SC @ 0.8 ml/liter for systemic protection.",
+        "Destroy infected haulms 10-12 days before tuber harvesting."
+      ],
+      "organic_solution": [
+        "Spray fermented buttermilk (chaas) mixed with copper sulfate (heeng/asafoetida optional).",
+        "Trichoderma harzianum soil and foliar treatment.",
+        "Use certified disease-resistant seed tubers (e.g. Kufri Jyoti, Kufri Girdhari)."
+      ],
+      "severity": "Severe (Critical)"
+    },
+    {
+      "id": "rice_blast",
+      "crop": "Rice / Paddy (धान)",
+      "disease_name": "Rice Blast (धान का झोंका रोग)",
+      "pathogen": "Magnaporthe oryzae (Pyricularia oryzae)",
+      "symptoms": "Spindle-shaped or eye-shaped spots with grey or white center and brown/reddish margins on leaves; rotting of neck nodes (neck blast) causing blank panicles.",
+      "causes": "Excessive nitrogen fertilizer, high humidity (>90%), dew, temperatures around 20-26°C.",
+      "treatment": [
+        "Tricyclazole 75% WP @ 0.6 g/liter water (highly effective).",
+        "Isoprothiolane 40% EC @ 1.5 ml/liter or Kasugamycin 3% SL @ 2 ml/liter.",
+        "Split nitrogen applications instead of heavy single doses."
+      ],
+      "organic_solution": [
+        "Seed treatment with Pseudomonas fluorescens @ 10 g/kg seed.",
+        "Foliar spray of fresh cow urine solution (1:10 ratio) with neem extract.",
+        "Maintain balanced potash fertilization to strengthen plant cell walls."
+      ],
+      "severity": "Severe (Critical)"
+    },
+    {
+      "id": "rice_bacterial_blight",
+      "crop": "Rice / Paddy (धान)",
+      "disease_name": "Bacterial Leaf Blight (BLB - जीवाणु पत्ती झुलसा)",
+      "pathogen": "Xanthomonas oryzae pv. oryzae",
+      "symptoms": "Water-soaked stripes along leaf margins turning yellow to bleaching straw-white with wavy margins, milky bacterial ooze drops in morning.",
+      "causes": "Strong winds, heavy rainfall, high temperatures (25-34°C), deep standing water.",
+      "treatment": [
+        "Streptocycline (Streptomycin sulphate + Tetracycline) @ 1 g in 10 liters + Copper Oxychloride 50% WP @ 25 g.",
+        "Drain field water temporarily for 3-4 days.",
+        "Stop urea/nitrogen top dressing immediately until disease ceases."
+      ],
+      "organic_solution": [
+        "Spray 2% Cow dung slurry supernatant.",
+        "Spray Pseudomonas fluorescens liquid formulation @ 5 ml/liter.",
+        "Crop rotation with legumes."
+      ],
+      "severity": "High"
+    },
+    {
+      "id": "wheat_yellow_rust",
+      "crop": "Wheat (गेहूं)",
+      "disease_name": "Yellow / Stripe Rust (पीला रतुआ)",
+      "pathogen": "Puccinia striiformis",
+      "symptoms": "Bright yellow pustules arranged in linear stripes/stripes parallel to leaf veins, yellow powder sticks to farmer clothes/fingers.",
+      "causes": "Cool temperatures (10-15°C), high humidity, morning dews in northern plains.",
+      "treatment": [
+        "Propiconazole 25% EC (Tilt) @ 1 ml/liter (200 ml in 200 liters water per acre).",
+        "Tebuconazole 25.9% EC @ 1 ml/liter.",
+        "Single timely spray stops disease spread within 48 hours."
+      ],
+      "organic_solution": [
+        "Grow rust-resistant cultivars like HD 2967, HD 3086, DBW 187, DBW 222.",
+        "Foliar spray of sour buttermilk (khatta chaas) with neem leaf extract.",
+        "Avoid late sowing of wheat."
+      ],
+      "severity": "Severe (Rapid Spreading)"
+    },
+    {
+      "id": "corn_leaf_blight",
+      "crop": "Corn / Maize (मक्का)",
+      "disease_name": "Northern Corn Leaf Blight (मक्के का पत्ती झुलसा)",
+      "pathogen": "Exserohilum turcicum",
+      "symptoms": "Long, elliptical, grayish-green or tan lesions (cigar-shaped) 2-15 cm in length on lower leaves progressing upwards.",
+      "causes": "Moderate temperatures (18-27°C) accompanied by extended wet periods or heavy dew.",
+      "treatment": [
+        "Spray Mancozeb 75% WP @ 2.5 g/liter or Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1 ml/liter.",
+        "Apply at early tassel stage if lesions appear on third leaf below ear.",
+        "Deep ploughing to bury infested crop residue after harvest."
+      ],
+      "organic_solution": [
+        "Foliar spray of Trichoderma harzianum (10g/liter).",
+        "Neem cake soil incorporation @ 150 kg/acre.",
+        "Rotate corn with legumes or sunflower."
+      ],
+      "severity": "Moderate"
+    },
+    {
+      "id": "cotton_leaf_curl",
+      "crop": "Cotton (कपास)",
+      "disease_name": "Cotton Leaf Curl Virus (पत्ता मरोड़ रोग)",
+      "pathogen": "Begomovirus (Transmitted by Whitefly Bemisia tabaci)",
+      "symptoms": "Upward or downward curling of leaf margins, vein thickening, enation (cup-shaped leaf outgrowths), stunted plant height.",
+      "causes": "High population of whitefly vectors in dry warm spells.",
+      "treatment": [
+        "Control whitefly vector: Diafenthiuron 50% WP @ 1.2 g/liter or Pyriproxyfen 10% + Bifenthrin 10% EC @ 2 ml/liter.",
+        "Flonicamid 50% WG @ 0.4 g/liter or Dinotefuran 20% SG @ 0.5 g/liter.",
+        "Eradicate weed hosts (Abutilon, Parthenium) on bunds."
+      ],
+      "organic_solution": [
+        "Install 15-20 yellow sticky traps per acre.",
+        "Spray 5% Neem Seed Kernel Extract (NSKE) or Neem oil @ 5 ml/liter.",
+        "Intercrop with cowpea or maize as barrier crops."
+      ],
+      "severity": "Severe"
+    },
+    {
+      "id": "healthy_crop",
+      "crop": "General Crop (फसल स्वस्थ है)",
+      "disease_name": "Healthy Plant Leaf (पौधा स्वस्थ और हरा-भरा है)",
+      "pathogen": "None (No Disease Detected)",
+      "symptoms": "Vibrant green leaves, uniform color, strong stems, no visible fungal spots, wilting or pest damage.",
+      "causes": "Good nutrient management, optimal soil moisture and balanced sunlight.",
+      "treatment": [
+        "No chemical fungicides or insecticides required.",
+        "Continue scheduled balanced irrigation.",
+        "Provide recommended N:P:K and micronutrient booster as per crop stage."
+      ],
+      "organic_solution": [
+        "Apply Jeevamrutha or Panchagavya (3% spray) every 15 days to boost plant immunity.",
+        "Keep field clean of weeds and maintain light aeration."
+      ],
+      "severity": "None (Healthy)"
+    }
+  ]
+}
